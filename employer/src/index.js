@@ -9,7 +9,6 @@ ReactDOM.render(
   <MuiPickersUtilsProvider utils={DateFnsUtils}>
     <App />
    </MuiPickersUtilsProvider>,
-
   document.getElementById('root')
 );
 
